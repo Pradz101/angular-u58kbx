@@ -1,3 +1,16 @@
-# angular-u58kbx
+# Angular Crash Course (TodoList)
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-u58kbx)
+This is the code for the crash course on YouTube
+
+## Quick Start
+
+```bash
+# Install dependencies
+npm install
+
+# Serve on localhost:4200
+ng serve
+
+# Build for production
+ng build
+```
